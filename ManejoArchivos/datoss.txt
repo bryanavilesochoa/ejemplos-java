@@ -1,0 +1,4 @@
+Brya;Aviles;10;15
+Jose;cuenca;5;18
+Luis;Alberto;20;20
+Pablo;Pachar;13;1

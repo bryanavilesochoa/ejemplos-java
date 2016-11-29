@@ -1,0 +1,2 @@
+Bryan;Aviles;18,00;20,00
+Jose;Cuenca;19,00;19,00
