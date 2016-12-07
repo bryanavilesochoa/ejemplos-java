@@ -1,0 +1,12 @@
+**********Comercial Ventas y Reventas**********
+Nombre: Crisaasd
+Ciudad: Lojasd
+----------------------------------
+Producto	Cantidad	Precio
+Arroz     		4		10,00
+Aceite    		5		6,50
+
+----------------------------------
+		Subtotal: 16,50
+		IVA: 2,31
+		TOTAL: 18,81
